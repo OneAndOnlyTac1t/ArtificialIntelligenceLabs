@@ -1,0 +1,17 @@
+D:\Users\Bogdan.Bilyk\source\repos\1D_CSPBilyk\1D_CSPBilyk\bin\Debug\1D_CSPBilyk.exe.config
+D:\Users\Bogdan.Bilyk\source\repos\1D_CSPBilyk\1D_CSPBilyk\bin\Debug\1D_CSPBilyk.exe
+D:\Users\Bogdan.Bilyk\source\repos\1D_CSPBilyk\1D_CSPBilyk\bin\Debug\1D_CSPBilyk.pdb
+D:\Users\Bogdan.Bilyk\source\repos\1D_CSPBilyk\1D_CSPBilyk\obj\Debug\1D_CSPBilyk.csproj.AssemblyReference.cache
+D:\Users\Bogdan.Bilyk\source\repos\1D_CSPBilyk\1D_CSPBilyk\obj\Debug\_1D_CSPBilyk.Form1.resources
+D:\Users\Bogdan.Bilyk\source\repos\1D_CSPBilyk\1D_CSPBilyk\obj\Debug\_1D_CSPBilyk.Properties.Resources.resources
+D:\Users\Bogdan.Bilyk\source\repos\1D_CSPBilyk\1D_CSPBilyk\obj\Debug\1D_CSPBilyk.csproj.GenerateResource.cache
+D:\Users\Bogdan.Bilyk\source\repos\1D_CSPBilyk\1D_CSPBilyk\obj\Debug\1D_CSPBilyk.csproj.CoreCompileInputs.cache
+D:\Users\Bogdan.Bilyk\source\repos\1D_CSPBilyk\1D_CSPBilyk\obj\Debug\1D_CSPBilyk.exe
+D:\Users\Bogdan.Bilyk\source\repos\1D_CSPBilyk\1D_CSPBilyk\obj\Debug\1D_CSPBilyk.pdb
+D:\Users\Bogdan.Bilyk\source\repos\1D_CSPBilyk\1D_CSPBilyk\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Users\Bogdan.Bilyk\source\repos\1D_CSPBilyk\1D_CSPBilyk\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Users\Bogdan.Bilyk\source\repos\1D_CSPBilyk\1D_CSPBilyk\obj\Debug\1D_CSPBilyk.csproj.CopyComplete
+D:\Users\Bogdan.Bilyk\source\repos\1D_CSPBilyk\1D_CSPBilyk\bin\Debug\Accord.Controls.dll
+D:\Users\Bogdan.Bilyk\source\repos\1D_CSPBilyk\1D_CSPBilyk\bin\Debug\Accord.dll
+D:\Users\Bogdan.Bilyk\source\repos\1D_CSPBilyk\1D_CSPBilyk\bin\Debug\Accord.Genetic.dll
+D:\Users\Bogdan.Bilyk\source\repos\1D_CSPBilyk\1D_CSPBilyk\bin\Debug\Accord.Math.dll
